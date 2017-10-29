@@ -1,4 +1,4 @@
-# Information:  
+# Information
 **Main Hosting Details:**  
 Control panel username: b3_20943943  
 Control panel URL: cpanel.byethost3.com  
